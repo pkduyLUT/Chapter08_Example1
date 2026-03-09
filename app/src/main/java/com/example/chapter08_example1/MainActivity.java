@@ -30,6 +30,8 @@ public class MainActivity extends AppCompatActivity {
             return insets;
         });
 
+        // A comment
+
         textInput = findViewById(R.id.inputTextField);
         textOutput = findViewById(R.id.outputTextFiled);
 
